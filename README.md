@@ -4,6 +4,7 @@ The conference was held from 14th-18th May 2025 at the University of New South W
 The theme of this year’s conference is "Beyond Words: AI's Transformative Role in Linguistics, Literature & Learning." 
 
 Sequence of Reading
+
 0. spearker noteds HLD.pdf
 1. WW1 (before the race).pdf
 2. WW1 (secret arms race).pdf
